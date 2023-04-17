@@ -1,0 +1,11 @@
+C:\Users\jrenc\OneDrive\Namizje\FMF\FMF3\PRO3\Predstavitev\Predstavitev\Dez\bin\Debug\Dez.exe.config
+C:\Users\jrenc\OneDrive\Namizje\FMF\FMF3\PRO3\Predstavitev\Predstavitev\Dez\bin\Debug\Dez.exe
+C:\Users\jrenc\OneDrive\Namizje\FMF\FMF3\PRO3\Predstavitev\Predstavitev\Dez\bin\Debug\Dez.pdb
+C:\Users\jrenc\OneDrive\Namizje\FMF\FMF3\PRO3\Predstavitev\Predstavitev\Dez\obj\Debug\Dez.csproj.AssemblyReference.cache
+C:\Users\jrenc\OneDrive\Namizje\FMF\FMF3\PRO3\Predstavitev\Predstavitev\Dez\obj\Debug\Dez.csproj.SuggestedBindingRedirects.cache
+C:\Users\jrenc\OneDrive\Namizje\FMF\FMF3\PRO3\Predstavitev\Predstavitev\Dez\obj\Debug\Dez.Properties.Resources.resources
+C:\Users\jrenc\OneDrive\Namizje\FMF\FMF3\PRO3\Predstavitev\Predstavitev\Dez\obj\Debug\Dez.csproj.GenerateResource.cache
+C:\Users\jrenc\OneDrive\Namizje\FMF\FMF3\PRO3\Predstavitev\Predstavitev\Dez\obj\Debug\Dez.csproj.CoreCompileInputs.cache
+C:\Users\jrenc\OneDrive\Namizje\FMF\FMF3\PRO3\Predstavitev\Predstavitev\Dez\obj\Debug\Dez.exe
+C:\Users\jrenc\OneDrive\Namizje\FMF\FMF3\PRO3\Predstavitev\Predstavitev\Dez\obj\Debug\Dez.pdb
+C:\Users\jrenc\OneDrive\Namizje\FMF\FMF3\PRO3\Predstavitev\Predstavitev\Dez\obj\Debug\Dez.Okno.resources
